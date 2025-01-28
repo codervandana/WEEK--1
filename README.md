@@ -1,4 +1,4 @@
-# WEEK--1
+# WEEK--1 #WEEK--2 (UPDATED)
 Waste Manegament Using CNN Model
 
 you can download the dataset from here 
