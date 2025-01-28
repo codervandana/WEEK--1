@@ -1,5 +1,5 @@
 # WEEK--1 #WEEK--2 (UPDATED)
-Waste Manegament Using CNN Model
+Waste Management Using CNN Model
 
-you can download the dataset from here 
+Here the dataset :
 https://www.kaggle.com/datasets/techsash/waste-classification-data/data 
