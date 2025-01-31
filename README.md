@@ -1,4 +1,4 @@
-# WEEK--1 #WEEK--2 (UPDATED)
+# WEEK--2 (UPDATED)
 Waste Management Using CNN Model
 
 Here is the dataset :
